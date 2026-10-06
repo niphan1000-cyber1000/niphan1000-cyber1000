@@ -12,7 +12,7 @@ Infrastructure & IT professional with **7+ years of experience** supporting ente
 
 ## 🚀 Flagship Project: CloudForge Platform
 
-A self-directed, modular cloud-native platform focusing on decoupled identity management, secure RAG knowledge pipelines, and automated validation gates.
+A self-directed, modular cloud-native platform focusing on microservices architecture, RAG knowledge bases, identity management, and automated security gates.
 
 ### Architecture Overview
 ```text
