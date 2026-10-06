@@ -48,4 +48,13 @@ https://github.com/CloudForge-Platform-Foundation-dev
 
 ### 📊 GitHub Stats
 
-Building toward a career focused on **Cloud Architecture, Platform Engineering, Infrastructure Automation, and Secure Cloud-native Systems**.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niphan1000-cyber1000&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niphan1000-cyber1000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niphan1000-cyber1000&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
